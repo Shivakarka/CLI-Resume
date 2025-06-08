@@ -23,12 +23,13 @@ This project converts a resume into a command-line interface tool using Node.js,
 - 💡 A creative way to share your resume
 
 ## Project Structure
-`
+
+```
 .
 ├── index.js         # Main CLI logic
 ├── package.json     # NPM package config
 └── README.md        # You're here!
-`
+```
 
 ## Tech Stack
 
